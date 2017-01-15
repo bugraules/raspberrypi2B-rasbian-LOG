@@ -10,8 +10,7 @@ ls //to learn content of current directory which we are in.
 cd // to get in a specific directory that you choose.Example:  cd /home
 
 hostname -I //to learn IP
-
-pwd // to learn which current working directory I am in.
+ifconfig // to learn whole network informations
 
 
 INSTALLED NMAP
