@@ -13,6 +13,23 @@ hostname -I //to learn IP
 ifconfig // to learn whole network informations
 
 
-INSTALLED NMAP
+// INSTALLED things
+
 sudo apt-get nmap // to install network mapping program"nmap"
+
+sudo apt-get tightvncserver
+
+//configure the ssh with using vim (vim.tiny in raspberry linux)
+
+vim.tiny /etc/ssh/ssh_config //Or go to preferences/Raspberry Pi Configuration
+
+//commands of vim.tiny
+//to insert push the button i
+//to exit push the button esc
+//to save write down this :x
+
+
+
+
+
 
