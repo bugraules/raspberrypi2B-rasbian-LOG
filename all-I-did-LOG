@@ -8,7 +8,7 @@ df -h // to learn storage information
 pwd // to learn which current working directory I am in.
 ls //to learn content of current directory which we are in.
 cd // to get in a specific directory that you choose.Example:  cd /home
-cd ~/git  // create a file in which directory you are  
+cd ~/git  // go to the file
 
 
 hostname -I //to learn IP
